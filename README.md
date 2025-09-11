@@ -12,7 +12,7 @@ The folder organization of the repository is as follows:
 
 .
 
-# Category A/    NP-Complexity Reduction (Quantum frameworks reduce NP problem complexity to near-polynomial time, validated experimentally.)
+ Category A/    NP-Complexity Reduction (Quantum frameworks reduce NP problem complexity to near-polynomial time, validated experimentally.)
 
 A.  NP-Complexity Reduction via Fractal-Quantum Zeta  Function Theory.pdf
 
