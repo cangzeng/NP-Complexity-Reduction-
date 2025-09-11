@@ -77,11 +77,10 @@ bash
 git clone "https://github.com/" (https://github.com/)你的用户名/你的仓库名.git
 
 
-## ⁉️ 注意事项
-
-*   本仓库收集的论文仅供学习和研究使用。
-*   版权归原作者及出版商所有，请合理使用。
-*   如果你发现链接失效或文件有误，请通过[提出问题]()的方式联系我。
+## ⁉️ Note​
+The papers collected in this repository are for academic and research purposes only.
+All rights belong to the original authors and publishers. Please use them properly.
+If you find any broken links or errors in the documents, please contact me by submitting an issue.
 
 ## 🤝 贡献
 
