@@ -12,7 +12,7 @@ The folder organization of the repository is as follows:
 
 .
 
- Category A/    NP-Complexity Reduction (Quantum frameworks reduce NP problem complexity to near-polynomial time, validated experimentally.)
+1.       NP-Complexity Reduction (Quantum frameworks reduce NP problem complexity to near-polynomial time, validated experimentally.)
 
 A.  NP-Complexity Reduction via Fractal-Quantum Zeta  Function Theory.pdf
 
@@ -20,24 +20,12 @@ B.  NP-Complexity Reduction B Complex Geometric Quantum Computing Framework Curv
 
 C.  NP-Complexity Reduction C Toric  Bundle Quantum Homology Tuning.pdf
 
-│   └── NP-Complexity Reduction D XXXXXXXXing.pdf
 
 
-├── Category_B/          # [类别B的简短说明，例如：自然语言处理突破性论文]
 
-│   ├── paper_1.pdf
+2.      Fractal Riemann Hypothesis 
 
-│   ├── paper_2.pdf
 
-│   └── paper_3.pdf
-
-└── Category_C/          # [类别C的简短说明，例如：计算机视觉应用论文]
-
-├── paper_1.pdf
-
-├── paper_2.pdf
-
-└── paper_3.pdf
 
 
 ## 📚 List of Papers
@@ -48,9 +36,8 @@ Below is a detailed list of papers under each category.
 
 | Title | Author | Year | Abstract |
 | :--- | :--- | :--- | :--- |
-| [Category A/NP-Complexity Reduction via Fractal-Quantum Zeta  Function Theory.pdf](https://doi.org/10.5281/zenodo.16866928)) | Author1, Author2 | 2025 |  This study establishes a Fractal-Quantum Zeta Function Theory by integrat
- |
-| [`paper_2.pdf`](Category_A/paper_2.pdf) | Author3, Author4 | YYYY | 该工作介绍了...模型，极大地提升了...性能。 |
+| [1.  NP-Complexity Reduction via Fractal-Quantum Zeta  Function Theory.pdf](https://doi.org/10.5281/zenodo.16866928) |  Zhou Changzheng, Zhou Ziqing | 2025 |   Fractal Riemann Hypothesis; Quantum Holography; NP-Complexity|
+| [1. Complex Geometric Quantum Computing Framework Curvature-Driven Solving of Discrete Logic Problems.pdf](https://doi.org/10.5281/zenodo.16870286) |Zhou Changzheng, Zhou Ziqing | 2025  |Quantum computing, Complex geometry, Riemann surfaces |
 | [`paper_3.pdf`](Category_A/paper_3.pdf) | Author5, Author6 | YYYY | 本文对...问题进行了综述，并讨论了未来的挑战。 |
 
 ### 【类别B的名称】（例如：**自然语言处理**）
