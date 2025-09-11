@@ -48,7 +48,7 @@ Below is a detailed list of papers under each category.
 
 | Title | Author | Year | Abstract |
 | :--- | :--- | :--- | :--- |
-| [`paper_1.pdf`](Category_A/paper_1.pdf) | Author1, Author2 | YYYY | 这篇论文提出了...，是领域内的奠基之作。 |
+| [Category_A/NP-Complexity Reduction via Fractal-Quantum Zeta  Function Theory.pdf](https://doi.org/10.5281/zenodo.16866928)) | Author1, Author2 | YYYY | 这篇论文提出了...，是领域内的奠基之作。 |
 | [`paper_2.pdf`](Category_A/paper_2.pdf) | Author3, Author4 | YYYY | 该工作介绍了...模型，极大地提升了...性能。 |
 | [`paper_3.pdf`](Category_A/paper_3.pdf) | Author5, Author6 | YYYY | 本文对...问题进行了综述，并讨论了未来的挑战。 |
 
