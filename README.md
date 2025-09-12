@@ -17,8 +17,9 @@ B.  NP-Complexity Reduction B Complex Geometric Quantum Computing Framework Curv
 
 C.  NP-Complexity Reduction C Toric  Bundle Quantum Homology Tuning.pdf
 
+D.  NP-Complexity Reduction D Categorical Isomorphism Between Ideal Class Groups and Topological Field Theories
 
-
+E.  NP-Complexity Reduction E: Quantum Arithmetic Error-Correcting Codes via Stable Realization of Class Groups Based on Complex Geometric and Topological Protection
 
 2.      Fractal Riemann Hypothesis 
 
