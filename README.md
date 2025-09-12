@@ -36,6 +36,8 @@ Below is a detailed list of papers under each category.
 | [1.  NP-Complexity Reduction via Fractal-Quantum Zeta  Function Theory.pdf](https://doi.org/10.5281/zenodo.16866928) |  Zhou Changzheng, Zhou Ziqing | 2025 |   Fractal Riemann Hypothesis; Quantum Holography; NP-Complexity|
 | [1.  NP-Complexity Reduction B Complex Geometric Quantum Computing Framework Curvature-Driven Solving of Discrete Logic Problems.pdf](https://doi.org/10.5281/zenodo.16870286) |Zhou Changzheng, Zhou Ziqing | 2025  |Quantum computing, Complex geometry, Riemann surfaces |
 | [1. NP-Complexity Reduction C Toric  Bundle Quantum Homology Tuning.pdf](https://doi.org/10.5281/zenodo.16875039)) |Zhou Changzheng, Zhou Ziqing | 2025  | Quantum homology, Toric bundles, Curvature manifolds, TSP, Super conducting quantum computing|
+| [1. NP-Complexity Reduction C Toric  Bundle Quantum Homology Tuning.pdf](https://doi.org/10.5281/zenodo.16875039)) |Zhou Changzheng, Zhou Ziqing | 2025  | Quantum homology, Toric bundles, Curvature manifolds, TSP, Super conducting quantum computing|
+| [1. NP-Complexity Reduction C Toric  Bundle Quantum Homology Tuning.pdf](https://doi.org/10.5281/zenodo.16884780) |Zhou Changzheng, Zhou Ziqing | 2025  | Quantum homology, Toric bundles, Curvature manifolds, TSP, Super conducting quantum computing|
 
 
 
