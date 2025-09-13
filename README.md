@@ -21,6 +21,18 @@ D.  NP-Complexity Reduction D Categorical Isomorphism Between Ideal Class Groups
 
 E.  NP-Complexity Reduction E: Quantum Arithmetic Error-Correcting Codes via Stable Realization of Class Groups Based on Complex Geometric and Topological Protection
 
+F.  NP Complexity Reduction F Quantum Ordinal Mapping Framework for Discrete Optimization Problem
+
+G.  NP-Complexity Reduction G; Categorical Acceleration  for Discrete NP Problems
+
+H.  NP Complexity Reduction H Rigid Constraints in Unitary Conformal Field Theory
+
+
+
+
+
+
+
 2.      Fractal Riemann Hypothesis 
 
 
