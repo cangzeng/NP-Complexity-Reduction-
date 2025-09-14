@@ -53,6 +53,7 @@ Below is a detailed list of papers under each category.
 | [1. NP Complexity Reduction F Quantum Ordinal Mapping Framework for Discrete Optimization Problem](https://doi.org/10.5281/zenodo.16885067) |Zhou Changzheng,Zhou Ziqing| 2025  | Quantum Ordinal Mapping, Discrete Optimization, Complexity Collapse, Algebraic Encoding, Quantum Experiment|
 | [1. NP Complexity Reduction G: Categorical Acceleration for Discrete NP Problems](https://doi.org/10.5281/zenodo.16885937) |Zhou Changzheng,Zhou Ziqing| 2025  |Quantum computation, NP complexity, ordinal collapse, class group embedding, adiabatic quantum evolution, holographic duality|
 | [1. NP Complexity Reduction H: Rigid Constraints in Unitary Conformal Field Theory](https://doi.org/10.5281/zenodo.16886510) |Zhou Changzheng,Zhou Ziqing| 2025  |unitary CFT, rigid constraints, quantum dimension collapse, NP-complete problems, topological quantum computing, solution space compression|
+| [1. NP Complexity Reduction I; Computational Complexity Phase Transition in the Langlands Correspondence]( https://doi.org/10.5281/zenodo.17089532) |Zhou Changzheng,Zhou Ziqing| 2025  |Langlands correspondence; computational complexity phase transition; topological quantum computing; NP-completeness; moduli space geometry; braid group representation|
 
 
 
