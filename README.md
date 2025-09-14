@@ -27,8 +27,7 @@ G.  NP-Complexity Reduction G; Categorical Acceleration  for Discrete NP Problem
 
 H.  NP Complexity Reduction H Rigid Constraints in Unitary Conformal Field Theory
 
-
-
+I.  NP Complexity Reduction I; Computational Complexity Phase Transition in the Langlands Correspondence
 
 
 
