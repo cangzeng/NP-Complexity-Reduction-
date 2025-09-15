@@ -1,11 +1,12 @@
-## My study
+## NP Complexity Reduction
 
 
 
 ## 📖 Introduction
 
-This repository houses researchs on mathematical physics, including quantum time, Millennium Problems, and more.
-
+The core innovation across all papers is the establishment of rigorous mappings—such as Quantum Ordinal Mapping, Holographic Duality, and Fractal-Zeta theory—that encode discrete optimization problems (e.g., 3-SAT, TSP) into structured mathematical spaces like ideal class groups Cl(K)Cl(K)Cl(K), conformal field theories, or the moduli spaces of Riemann surfaces. This encoding facilitates a dramatic "complexity collapse," reducing the solution space dimensionality from exponential to quasi-polynomial scales, specifically to O(n1.01O(n^{1.01}O(n1.01 to O(n1.05)O(n^{1.05})O(n1.05), as proven by theorems on ordinal collapse and dimensional compression.
+A pivotal achievement is the experimental validation on superconducting quantum processors (e.g., 127-qubit IBM Eagle) and cold-atom platforms, demonstrating orders-of-magnitude speedups. For instance, solving n=50 3-SAT instances in 0.71 seconds with >99% fidelity, and n=50 TSP instances with a 163x speedup. The frameworks also rigorously define their own boundaries, proving that continuous optimization problems (e.g., Euclidean TSP, sphere packing) cannot be embedded due to inherent conflicts with transcendental numbers like π, which disrupt the required algebraic closure.
+Ultimately, this work constructs a new paradigm where computational complexity is determined by algebraic and geometric invariants, bridging number theory, quantum gravity (via AdS/CFT duality), and condensed matter physics, and providing the first experimentally falsifiable quantum pathways for tackling NP problems.
 ## 📁 Repository Directory Structure 
 
 
