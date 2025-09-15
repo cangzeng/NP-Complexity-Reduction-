@@ -10,7 +10,7 @@ Ultimately, this work constructs a new paradigm where computational complexity i
 ## 📁 Repository Directory Structure 
 
 
-1.       NP-Complexity Reduction (Quantum frameworks reduce NP problem complexity to near-polynomial time, validated experimentally)
+       NP-Complexity Reduction (Quantum frameworks reduce NP problem complexity to near-polynomial time, validated experimentally)
 
 A.  NP-Complexity Reduction via Fractal-Quantum Zeta  Function Theory
 
