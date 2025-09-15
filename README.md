@@ -12,11 +12,11 @@ Ultimately, this work constructs a new paradigm where computational complexity i
 
 1.       NP-Complexity Reduction (Quantum frameworks reduce NP problem complexity to near-polynomial time, validated experimentally)
 
-A.  NP-Complexity Reduction via Fractal-Quantum Zeta  Function Theory.pdf
+A.  NP-Complexity Reduction via Fractal-Quantum Zeta  Function Theory
 
-B.  NP-Complexity Reduction B Complex Geometric Quantum Computing Framework Curvature-Driven Solving of Discrete Logic Problems.pdf
+B.  NP-Complexity Reduction B Complex Geometric Quantum Computing Framework Curvature-Driven Solving of Discrete Logic Problems
 
-C.  NP-Complexity Reduction C Toric  Bundle Quantum Homology Tuning.pdf
+C.  NP-Complexity Reduction C Toric  Bundle Quantum Homology Tuning
 
 D.  NP-Complexity Reduction D Categorical Isomorphism Between Ideal Class Groups and Topological Field Theories
 
@@ -36,7 +36,7 @@ I.  NP Complexity Reduction I; Computational Complexity Phase Transition in the 
 
 ## 📚 List of Papers
 
-Below is a detailed list of papers under each category.
+
 
 ###  NP-Complexity Reduction (Quantum frameworks reduce NP problem complexity to near-polynomial time, validated experimentally.)
 
