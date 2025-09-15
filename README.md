@@ -9,7 +9,7 @@ This repository houses researchs on mathematical physics, including quantum time
 ## 📁 Repository Directory Structure 
 
 
-1.       NP-Complexity Reduction (Quantum frameworks reduce NP problem complexity to near-polynomial time, validated experimentally.)
+1.       NP-Complexity Reduction (Quantum frameworks reduce NP problem complexity to near-polynomial time, validated experimentally
 
 A.  NP-Complexity Reduction via Fractal-Quantum Zeta  Function Theory.pdf
 
@@ -31,8 +31,11 @@ I.  NP Complexity Reduction I; Computational Complexity Phase Transition in the 
 
 
 
+2.   Gravity is Not a Fundamental Force
 
-2.      Fractal Riemann Hypothesis 
+A.  NP-Complexity Reduction via Fractal-Quantum Zeta  Function Theory.pdf
+
+B.  NP-Complexity Reduction B Complex Geometric Quantum Computing Framework Curvature-Driven Solving of Discrete Logic Problems.pdf
 
 
 
